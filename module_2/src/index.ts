@@ -3,6 +3,7 @@ let studentId = 94;
 const isAdmin:boolean = false;
 // console.log(name_student);
 
+type item = number[];
 
 const items = ["apple", "orange", 20, "banana",  50, 94];
 
