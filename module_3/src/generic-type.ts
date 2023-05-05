@@ -1,6 +1,8 @@
 type GenericArray<T> = Array<T>;
 type GenericTuple<X,Y> = [X,Y];
 
+
+
 const relation:GenericTuple<string, string>=['Bangladesh', 'Sheikh Hasina']
 
 const randomNumbers: Array<number> = [20,50,40,60];
@@ -28,3 +30,5 @@ const myArr: GenericArray<typeObject> = [
   id:10  
 }
 ]
+
+
