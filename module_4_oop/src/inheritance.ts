@@ -36,3 +36,5 @@ const teacher1 = new Teacher('Steve', 30, 'UK', 'Lecturer');
 // console.log(teacher1.address);
 const student1 = new Student('John', 25, 'USA', 94); 
 console.log(student1.id);
+
+export {};
